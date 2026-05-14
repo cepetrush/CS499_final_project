@@ -9,6 +9,8 @@ Best practices of code review:
 - use checklists
 - establish a process for fixing defects found
 
+Course Outcomes: #2
+
 ## enhancement one: software engineering and design
 <ins>Artifact used:</ins> 
 - pet check-in program designed in Java from IT 145: Foundation in Application Development
@@ -21,6 +23,8 @@ Best practices of code review:
   - JavaScript
   - HTML
   - CSS
+ 
+<ins>Course Outcomes:</ins> #1, 4
 
 📝 [Software Engineering and Design Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
 
@@ -36,6 +40,8 @@ Best practices of code review:
   - adding security to the login / registration screen through the use of a hashing algorithm.
   - ensuring that the user data, preferences, and session-related information are securely stored and managed through session management.
 
+<ins>Course Outcomes:</ins> #3
+
 📝 [Algorithms and Data Structures Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Algorithms%20and%20Data%20Structures%20Narrative.docx)
 
 
@@ -50,9 +56,15 @@ Best practices of code review:
   - effectively manage, design, and utilize a database
   - structure data logically and physically within a database to optimize performance, security, and scalability
 
+<ins>Course Outcomes:</ins> #5
+
 📝 [Databases Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Databases%20Narrative.docx)
 
 ## course outcomes:
 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
 2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
-3. Desing and evaluate computing soluctions that s
+3. Design and evaluate computing soluctions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.
+4. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+5. Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+diences and contexts.
+
