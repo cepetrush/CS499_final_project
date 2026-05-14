@@ -9,9 +9,6 @@ Best practices of code review:
 - use checklists
 - establish a process for fixing defects found
 
-Course Outcomes: #2
-
-
 ## enhancement one: software engineering and design
 <ins>Artifact used:</ins> 
 - pet check-in program designed in Java from IT 145: Foundation in Application Development
@@ -24,8 +21,6 @@ Course Outcomes: #2
   - JavaScript
   - HTML
   - CSS
- 
-<ins>Course Outcomes:</ins> #1, 4
 
 📝 [Software Engineering and Design Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
 
@@ -41,8 +36,6 @@ Course Outcomes: #2
   - adding security to the login / registration screen through the use of a hashing algorithm.
   - ensuring that the user data, preferences, and session-related information are securely stored and managed through session management.
 
-<ins>Course Outcomes:</ins> #3
-
 📝 [Algorithms and Data Structures Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Algorithms%20and%20Data%20Structures%20Narrative.docx)
 
 
@@ -56,8 +49,6 @@ Course Outcomes: #2
 <ins>Skills:</ins> 
   - effectively manage, design, and utilize a database
   - structure data logically and physically within a database to optimize performance, security, and scalability
-
-<ins>Course Outcomes:</ins> #5
 
 📝 [Databases Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Databases%20Narrative.docx)
 
