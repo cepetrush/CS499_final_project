@@ -26,7 +26,7 @@ Course Outcomes: #2
  
 <ins>Course Outcomes:</ins> #1, 4
 
-📝 [Software Engineering and Design Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
+📝 Algorithms and Data Structures Narrative.pdf
 
 ## enhancement two: algorithms and data structures
 <ins>Artifact used:</ins> 
