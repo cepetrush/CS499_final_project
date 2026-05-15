@@ -26,7 +26,8 @@ Course Outcomes: #2
  
 <ins>Course Outcomes:</ins> #1, 4
 
-📝 Algorithms and Data Structures Narrative.pdf
+📝 [Algorithms and Data Structures Narrative]()
+
 
 ## enhancement two: algorithms and data structures
 <ins>Artifact used:</ins> 
