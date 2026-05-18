@@ -26,7 +26,7 @@ Course Outcomes: #2
  
 <ins>Course Outcomes:</ins> #1, 4
 
-📝 [Algorithms and Data Structures Narrative](https://github.com/cepetrush/CS499_final_project/blob/main/documents/Algorithms%20and%20Data%20Structures%20Narrative.pdf)
+📝 [Algorithms and Data Structures Narrative](https://github.com/cepetrush/CS499_final_project/blob/main/Algorithms%20and%20Data%20Structures%20Narrative.pdf)
 
 
 ## enhancement two: algorithms and data structures
