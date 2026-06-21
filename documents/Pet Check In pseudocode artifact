@@ -1,0 +1,28 @@
+Module One (Pet Check In) – Pseudocode Christine Weigand
+START
+INPUT Type of pet (“Is the pet a cat or dog?”) IF pet = dog THEN
+DETERMINE if boarding space is available IF dog count < 30 THEN
+Assign space
+DISPLAY Assigned space ADD 1 to dog count
+IF dog = returning THEN
+UPDATE current info ELSE
+INPUT appropriate information ENDIF
+INPUT Length of stay (“How long will pet be staying?”) IF Length of stay > 2 THEN
+IF INPUT Groom (“Would you like your dog groomed?”) THEN ADD grooming
+ELSE
+END
+ENDIF
+ELSE
+END
+ENDIF ELIF pet = cat THEN
+DETERMINE if boarding space is available IF cat count < 12 THEN
+Assign space
+DISPLAY Assigned space ADD 1 cat count
+IF cat = returning THEN
+UPDATE current info if needed ELSE
+INPUT appropriate information ENDIF
+ELSE
+END
+ENDIF ELSE
+END ENDIF
+END
