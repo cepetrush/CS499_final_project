@@ -26,7 +26,7 @@ Course Outcomes: #2
  
 <ins>Course Outcomes:</ins> #1, 4
 
-📝 [Software Engineering and Design Narrative](https://github.com/cepetrush/CS499_final_project/blob/main/documents/Software%20Engineering%20and%20Design%20Narrative.pdf)
+📝 [Software Engineering and Design Narrative](https://github.com/cepetrush/CS499_final_project/blob/main/documents/Software%20Engineering%20and%20Design%20Narrative.md)
 
 
 ## enhancement two: algorithms and data structures
