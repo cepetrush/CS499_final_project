@@ -1,0 +1,19 @@
+[
+    {
+        "code" : "C1234",
+        "name" : "Cat Boarding",
+        "length" : "4 nights / 5 days",
+        "resort" : "The cattery",
+        "perPerson" : "500",
+        "image": "cat.jpg",
+        "description": "<p>The cattery room has views of the outdoors and a<br>big screen tv.Individually vented condos have separate<br>rooms for the litter box with high shelves to lounge on.<br>Ther are no wire cages, no fencing or wire mesh.</p> <p>In preperation for boarding, you cat needs to have<br>current vaccinations. Please provide proof of current<br>status during the first check in and annually thereafter.<br>We recommend the pet food which your pet is already<br>accustomed to eating.</p>"
+        } , {
+        "code" : "D1234",
+        "name" : "Dog Boarding",
+        "length" : "4 nights / 5 days",
+        "resort" : "The Dog Park",
+        "perPerson" : "500",
+        "image": "dog.jpg",
+        "description": "<p>Our canine guests enjoy the view, shaded by huge white<br>pines, oaks, and maples,complete with wildlife such as<br> rabbits,squirrels and birds. Our buildings are gas heated<br>and climate controlled for even temperatures. Runs are<br>made of natural crushed limestone or sealed concrete.</p> <p>In preperation for boarding, you dog needs to have<br>current vaccinations. Please provide proof of current<br>status during the first check in and annually thereafter.<br>We recommend the pet food which your pet is already<br>accustomed to eating.</p>"
+    }
+]
