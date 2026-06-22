@@ -43,7 +43,7 @@ Course Outcomes: #2
 
 <ins>Course Outcomes:</ins> #3
 
-📝 [Algorithms and Data Structures Narrative](https://github.com/cepetrush/CS499_final_project/blob/main/documents/Algorithms%20and%20Data%20Structures%20Narrative.pdf)
+📝 [Algorithms and Data Structures Narrative](https://github.com/cepetrush/CS499_final_project/blob/main/documents/Algorithms%20and%20Data%20Structures%20Narrative.md)
 
 
 ## enhancement three: databases
@@ -59,7 +59,7 @@ Course Outcomes: #2
 
 <ins>Course Outcomes:</ins> #5
 
-📝 [Databases Narrative](https://github.com/cepetrush/CS499_final_project/blob/main/documents/Databases%20Narrative.pdf)
+📝 [Databases Narrative](https://github.com/cepetrush/CS499_final_project/blob/main/documents/Databases%20Narrative.md)
 
 ## course outcomes:
 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
