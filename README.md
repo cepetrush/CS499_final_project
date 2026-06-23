@@ -64,6 +64,8 @@ Course Outcomes: #2
 
 📝 [Databases Narrative](https://github.com/cepetrush/CS499_final_project/blob/main/documents/Databases%20Narrative.md)
 
+🖼️ [Registration Screen](https://github.com/cepetrush/CS499_final_project/blob/5fc71a48bf6654e75b55db166bcccda090901959/images/register.png)
+
 ## course outcomes:
 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
 2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
